@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Detail-Oriented Python Developer with a passion for understanding how things work.
+I'm a Detail-Oriented Python Developer with a passion for understanding how things work.
 🔍 I love diving deep into complex systems and understanding their inner workings.
 
 
